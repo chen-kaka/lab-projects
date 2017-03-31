@@ -1,0 +1,12 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "author": "chenzekai",
+  "dependencies": {
+  }
+}
